@@ -37,7 +37,11 @@ header {
     border-bottom: none;
 }
 
-
+h1 {
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+}
 
 
 
@@ -86,11 +90,11 @@ nav {
 .nav-box2,
 .nav-box3 {
 
-    height: 90px;
-    width: 130px;
+    height: 100px;
+    width: 150px;
     background: transparent;
-
-
+    font-size: larger;
+    font-weight: bold;
     text-align: center;
 }
 
@@ -100,7 +104,6 @@ nav {
     background-color: rgb(231, 167, 48);
     color: black;
 }
-
 
 
 
@@ -116,8 +119,6 @@ nav {
 
     width: 100%;
 }
-
-
 
 
 
@@ -155,6 +156,7 @@ nav {
     height: 200px;
     width: 200px;
     font-size: larger;
+    font-weight: bolder;
 }
 
 .flexbox2-row1 {
@@ -210,6 +212,7 @@ li {
     height: 200px;
     width: 200px;
     font-size: larger;
+    font-weight: bolder;
     background-color: transparent;
 }
 
@@ -429,9 +432,22 @@ footer a {
         border-bottom: none;
     }
 
+    .nav-box1,
+    .nav-box2,
+    .nav-box3 {
+
+        height: 100px;
+        width: 120px;
+        background: transparent;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+
     .flexbox2-row1 {
         height: 200px;
-        line-height: 1.5;
+        line-height: 1;
         font-size: small;
         justify-content: left;
         align-items: flex-start;
