@@ -49,7 +49,7 @@ h1 {
 nav {
 
     background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
-        url(../assetts/photos/ocean.jpeg);
+        url(../assets/images/ocean.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: inherit;
@@ -182,7 +182,7 @@ li {
 }
 
 .flexbox3-row1 {
-    background-image: url(../assetts/photos/photo-in-syktyvkar.JPG);
+    background-image: url(../assets/images/photo-in-syktyvkar.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: inherit;
